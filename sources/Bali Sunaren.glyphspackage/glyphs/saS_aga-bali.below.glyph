@@ -1,0 +1,61 @@
+{
+glyphname = "saSaga-bali.below";
+layers = (
+{
+anchors = (
+{
+name = _bottom;
+pos = (-121,0);
+},
+{
+name = bottom;
+pos = (-93,-679);
+},
+{
+name = top;
+pos = (-467,650);
+}
+);
+layerId = m002;
+name = Regular;
+shapes = (
+{
+alignment = 1;
+ref = "ga-bali.below";
+},
+{
+pos = (-1045,-671);
+ref = _cecek_bawah;
+}
+);
+width = 0;
+},
+{
+anchors = (
+{
+name = _bottom;
+pos = (906,0);
+},
+{
+name = bottom;
+pos = (906,-679);
+}
+);
+associatedMasterId = m002;
+layerId = m003;
+name = Bold;
+shapes = (
+{
+alignment = 1;
+ref = "ga-bali.below";
+},
+{
+alignment = -1;
+pos = (180,-679);
+ref = _suwet;
+}
+);
+width = 1036;
+}
+);
+}

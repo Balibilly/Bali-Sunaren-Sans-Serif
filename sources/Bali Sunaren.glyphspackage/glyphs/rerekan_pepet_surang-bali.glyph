@@ -1,0 +1,49 @@
+{
+glyphname = "rerekan_pepet_surang-bali";
+layers = (
+{
+anchors = (
+{
+name = _top;
+pos = (804,630);
+}
+);
+layerId = m002;
+name = Regular;
+shapes = (
+{
+alignment = 1;
+ref = "rerekan-bali";
+},
+{
+alignment = -1;
+pos = (431,0);
+ref = "pepet_surang-bali";
+}
+);
+width = 578;
+},
+{
+anchors = (
+{
+name = _top;
+pos = (284,630);
+}
+);
+associatedMasterId = m002;
+layerId = m003;
+name = Bold;
+shapes = (
+{
+alignment = 1;
+ref = "rerekan-bali";
+},
+{
+pos = (261,0);
+ref = "pepet_surang-bali";
+}
+);
+width = 578;
+}
+);
+}

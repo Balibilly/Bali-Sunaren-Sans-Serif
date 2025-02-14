@@ -1,0 +1,33 @@
+{
+glyphname = "laLengaMark-bali";
+layers = (
+{
+anchors = (
+{
+name = _bottom;
+pos = (-80,0);
+}
+);
+layerId = m002;
+name = Regular;
+shapes = (
+{
+pos = (-1018,0);
+ref = "pepet-bali";
+},
+{
+pos = (-99,0);
+ref = "la-bali.below";
+}
+);
+width = 0;
+},
+{
+associatedMasterId = m002;
+layerId = m003;
+name = Bold;
+width = 1275;
+}
+);
+unicode = 6972;
+}

@@ -1,0 +1,25 @@
+{
+glyphname = quotedblbase;
+kernLeft = period;
+kernRight = period;
+layers = (
+{
+layerId = m002;
+shapes = (
+{
+alignment = -1;
+ref = quotesinglbase;
+},
+{
+alignment = 1;
+pos = (158,0);
+ref = quotesinglbase;
+}
+);
+width = 400;
+}
+);
+metricLeft = comma;
+metricRight = comma;
+unicode = 8222;
+}

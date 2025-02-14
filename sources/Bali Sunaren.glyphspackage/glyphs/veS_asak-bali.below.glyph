@@ -1,0 +1,61 @@
+{
+glyphname = "veSasak-bali.below";
+layers = (
+{
+anchors = (
+{
+name = _bottom;
+pos = (-80,0);
+},
+{
+name = bottom;
+pos = (-71,-457);
+},
+{
+name = top;
+pos = (-467,650);
+}
+);
+layerId = m002;
+name = Regular;
+shapes = (
+{
+alignment = 1;
+ref = "wa-bali.below";
+},
+{
+pos = (-862,-808);
+ref = _suwet_bawah;
+}
+);
+width = 0;
+},
+{
+anchors = (
+{
+name = _bottom;
+pos = (842,0);
+},
+{
+name = bottom;
+pos = (851,-457);
+}
+);
+associatedMasterId = m002;
+layerId = m003;
+name = Bold;
+shapes = (
+{
+alignment = 1;
+ref = "wa-bali.below";
+},
+{
+alignment = -1;
+pos = (243,-769);
+ref = _suwet_ka;
+}
+);
+width = 892;
+}
+);
+}

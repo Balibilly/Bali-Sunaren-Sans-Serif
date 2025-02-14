@@ -1,0 +1,16 @@
+{
+glyphname = macron;
+layers = (
+{
+layerId = m002;
+shapes = (
+{
+alignment = 1;
+ref = macroncomb;
+}
+);
+width = 374;
+}
+);
+unicode = 175;
+}

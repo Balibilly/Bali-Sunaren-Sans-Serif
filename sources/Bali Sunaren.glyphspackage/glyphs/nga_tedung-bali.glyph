@@ -1,0 +1,29 @@
+{
+glyphname = "nga_tedung-bali";
+layers = (
+{
+anchors = (
+{
+name = bottom;
+pos = (1061,0);
+},
+{
+name = top;
+pos = (674,650);
+}
+);
+layerId = m002;
+shapes = (
+{
+ref = "nga-bali";
+},
+{
+pos = (1141,0);
+ref = "tedung-bali";
+}
+);
+width = 1688;
+}
+);
+metricRight = "tedung-bali";
+}

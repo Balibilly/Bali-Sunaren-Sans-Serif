@@ -1,0 +1,55 @@
+{
+glyphname = "okaraTedung-bali";
+layers = (
+{
+anchors = (
+{
+name = bottom;
+pos = (1052,-759);
+},
+{
+name = top;
+pos = (637,650);
+}
+);
+layerId = m002;
+name = Regular;
+shapes = (
+{
+ref = "okara-bali";
+},
+{
+pos = (1073,0);
+ref = "tedung-bali";
+}
+);
+width = 1620;
+},
+{
+anchors = (
+{
+name = bottom;
+pos = (1052,-759);
+},
+{
+name = top;
+pos = (637,650);
+}
+);
+associatedMasterId = m002;
+layerId = m003;
+name = Bold;
+shapes = (
+{
+ref = "okara-bali";
+},
+{
+pos = (1073,0);
+ref = "tedung-bali";
+}
+);
+width = 1620;
+}
+);
+unicode = 6930;
+}

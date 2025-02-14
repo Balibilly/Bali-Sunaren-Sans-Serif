@@ -1,0 +1,27 @@
+{
+export = 0;
+glyphname = _center_E;
+layers = (
+{
+anchors = (
+{
+name = _center;
+pos = (143,313);
+}
+);
+layerId = m002;
+shapes = (
+{
+closed = 1;
+nodes = (
+(471,307,l),
+(471,383,l),
+(143,383,l),
+(143,307,l)
+);
+}
+);
+width = 600;
+}
+);
+}

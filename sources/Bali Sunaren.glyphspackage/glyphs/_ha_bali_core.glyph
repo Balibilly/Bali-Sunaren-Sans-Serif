@@ -1,0 +1,72 @@
+{
+export = 0;
+glyphname = _ha_bali_core;
+layers = (
+{
+anchors = (
+{
+name = _ha_bali_core;
+pos = (489,291);
+},
+{
+name = ha_tenas_ha;
+pos = (314,-10);
+}
+);
+layerId = m002;
+shapes = (
+{
+closed = 1;
+nodes = (
+(366,-10,ls),
+(529,-10,o),
+(576,88,o),
+(569,243,cs),
+(567,291,l),
+(492,291,l),
+(494,255,ls),
+(501,134,o),
+(469,66,o),
+(370,66,cs),
+(326,66,l),
+(314,-10,l)
+);
+}
+);
+width = 1168;
+},
+{
+anchors = (
+{
+name = _ha_bali_core;
+pos = (489,291);
+},
+{
+name = ha_tenas_ha;
+pos = (314,-10);
+}
+);
+associatedMasterId = m002;
+layerId = "BB308CFD-759F-4E81-8D9C-CE44F979B9A6";
+name = "3 May 23 17.46";
+shapes = (
+{
+closed = 1;
+nodes = (
+(493,-10,o),
+(554,96,o),
+(554,264,cs),
+(554,291,l),
+(474,291,l),
+(474,265,ls),
+(474,120,o),
+(428,66,o),
+(326,66,c),
+(314,-10,l)
+);
+}
+);
+width = 1168;
+}
+);
+}

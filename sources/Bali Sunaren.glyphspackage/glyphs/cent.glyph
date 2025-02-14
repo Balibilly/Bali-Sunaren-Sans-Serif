@@ -1,0 +1,91 @@
+{
+glyphname = cent;
+kernLeft = o;
+kernRight = c;
+layers = (
+{
+anchors = (
+{
+name = bar_ver;
+pos = (295,336);
+},
+{
+name = bottom;
+pos = (295,62);
+},
+{
+name = top;
+pos = (295,607);
+}
+);
+layerId = m002;
+shapes = (
+{
+closed = 1;
+nodes = (
+(327,-90,l),
+(327,790,l),
+(263,790,l),
+(263,-90,l)
+);
+},
+{
+pos = (0,87);
+ref = c;
+}
+);
+width = 559;
+},
+{
+anchors = (
+{
+name = bar_ver;
+pos = (295,336);
+},
+{
+name = bottom;
+pos = (295,62);
+},
+{
+name = top;
+pos = (295,607);
+}
+);
+associatedMasterId = m002;
+attr = {
+axisRules = (
+);
+};
+layerId = "5CD2E281-45F3-48D3-A8C1-357D9AF37B5F";
+name = "17 Jul 23 14.39";
+shapes = (
+{
+closed = 1;
+nodes = (
+(327,-90,l),
+(327,107,l),
+(263,107,l),
+(263,-90,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(327,578,l),
+(327,790,l),
+(263,790,l),
+(263,578,l)
+);
+},
+{
+pos = (0,87);
+ref = c;
+}
+);
+width = 559;
+}
+);
+metricLeft = c;
+metricRight = c;
+unicode = 162;
+}

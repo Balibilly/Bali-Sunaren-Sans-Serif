@@ -1,0 +1,35 @@
+{
+category = Letter;
+glyphname = "ba-bali.below_suku-bali.below";
+layers = (
+{
+anchors = (
+{
+name = _bottom;
+pos = (-92,0);
+},
+{
+name = bottom;
+pos = (-92,-679);
+},
+{
+name = top;
+pos = (-707,650);
+}
+);
+layerId = m002;
+shapes = (
+{
+alignment = -1;
+pos = (-1438,-679);
+ref = "ba-bali";
+},
+{
+ref = "suku-bali.below";
+}
+);
+width = 0;
+}
+);
+subCategory = Spacing;
+}

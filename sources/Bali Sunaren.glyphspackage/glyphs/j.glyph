@@ -1,0 +1,31 @@
+{
+glyphname = j;
+kernLeft = j;
+kernRight = i;
+layers = (
+{
+background = {
+shapes = (
+{
+angle = 180;
+pos = (249,500);
+ref = f;
+}
+);
+};
+layerId = m002;
+shapes = (
+{
+ref = jdotless;
+},
+{
+alignment = 1;
+pos = (-5,0);
+ref = dotaccentcomb;
+}
+);
+width = 244;
+}
+);
+unicode = 106;
+}

@@ -1,0 +1,51 @@
+{
+glyphname = upTipLeftArrow;
+layers = (
+{
+background = {
+shapes = (
+{
+pos = (30,-98);
+ref = leftArrow;
+}
+);
+};
+layerId = m002;
+shapes = (
+{
+closed = 1;
+nodes = (
+(796,0,l),
+(796,421,l),
+(834,390,l),
+(159,390,l),
+(158,323,l),
+(783,323,l),
+(726,365,l),
+(726,0,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(276,121,l),
+(345,190,l),
+(349,164,l),
+(132,384,l),
+(132,329,l),
+(346,539,l),
+(344,513,l),
+(274,583,l),
+(298,587,l),
+(33,322,l),
+(33,386,l),
+(303,115,l)
+);
+}
+);
+width = 916;
+}
+);
+metricLeft = leftRightArrow;
+unicode = 8624;
+}

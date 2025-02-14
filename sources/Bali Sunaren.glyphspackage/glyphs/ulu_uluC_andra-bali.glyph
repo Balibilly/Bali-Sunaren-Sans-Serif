@@ -1,0 +1,51 @@
+{
+glyphname = "ulu_uluCandra-bali";
+layers = (
+{
+anchors = (
+{
+name = _top;
+pos = (547,630);
+}
+);
+layerId = m002;
+name = Regular;
+shapes = (
+{
+alignment = 1;
+ref = "ulu-bali";
+},
+{
+pos = (519,0);
+ref = _ulucandra_bawak;
+}
+);
+width = 574;
+},
+{
+anchors = (
+{
+name = _top;
+pos = (330,630);
+}
+);
+associatedMasterId = m002;
+layerId = m003;
+name = Bold;
+shapes = (
+{
+alignment = -1;
+pos = (4,0);
+ref = "ulu-bali";
+},
+{
+alignment = -1;
+pos = (519,0);
+ref = _ulucandra_bawak;
+}
+);
+width = 564;
+}
+);
+metricLeft = "ulu-bali";
+}

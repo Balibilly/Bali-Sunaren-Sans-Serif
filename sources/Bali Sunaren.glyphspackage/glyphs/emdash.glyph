@@ -1,0 +1,33 @@
+{
+glyphname = emdash;
+kernLeft = periodcentered;
+kernRight = periodcentered;
+layers = (
+{
+background = {
+shapes = (
+{
+pos = (-15,0);
+ref = M;
+}
+);
+};
+layerId = m002;
+shapes = (
+{
+closed = 1;
+nodes = (
+(737,238,l),
+(737,319,l),
+(67,319,l),
+(67,238,l)
+);
+}
+);
+width = 804;
+}
+);
+metricLeft = hyphen;
+metricRight = hyphen;
+unicode = 8212;
+}

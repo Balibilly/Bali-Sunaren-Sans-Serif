@@ -1,0 +1,34 @@
+{
+glyphname = period;
+kernLeft = period;
+kernRight = period;
+layers = (
+{
+anchors = (
+{
+name = _colon;
+pos = (72,91);
+},
+{
+name = colon;
+pos = (72,491);
+}
+);
+layerId = m002;
+shapes = (
+{
+closed = 1;
+nodes = (
+(170,0,l),
+(170,91,l),
+(72,91,l),
+(72,0,l)
+);
+}
+);
+width = 242;
+}
+);
+metricRight = "=|";
+unicode = 46;
+}

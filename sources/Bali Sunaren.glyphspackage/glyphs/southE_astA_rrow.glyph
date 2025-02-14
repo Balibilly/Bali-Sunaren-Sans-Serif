@@ -1,0 +1,32 @@
+{
+glyphname = southEastArrow;
+layers = (
+{
+layerId = m002;
+shapes = (
+{
+closed = 1;
+nodes = (
+(143,662,l),
+(59,579,l),
+(44,630,l),
+(565,73,l),
+(575,106,l),
+(82,106,l),
+(82,33,l),
+(663,33,l),
+(663,650,l),
+(586,650,l),
+(586,100,l),
+(630,111,l),
+(105,678,l)
+);
+}
+);
+width = 771;
+}
+);
+metricLeft = northEastArrow;
+metricRight = northEastArrow;
+unicode = 8600;
+}

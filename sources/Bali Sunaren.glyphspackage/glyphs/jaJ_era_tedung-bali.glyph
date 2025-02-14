@@ -1,0 +1,25 @@
+{
+glyphname = "jaJera_tedung-bali";
+layers = (
+{
+anchors = (
+{
+name = top;
+pos = (649,650);
+}
+);
+layerId = m002;
+shapes = (
+{
+ref = "jaJera-bali";
+},
+{
+pos = (1342,0);
+ref = "tedung-bali";
+}
+);
+width = 1889;
+}
+);
+metricRight = "tedung-bali";
+}

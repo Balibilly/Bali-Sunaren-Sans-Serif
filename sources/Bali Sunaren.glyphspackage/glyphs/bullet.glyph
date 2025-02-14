@@ -1,0 +1,25 @@
+{
+glyphname = bullet;
+kernLeft = periodcentered;
+kernRight = periodcentered;
+layers = (
+{
+layerId = m002;
+shapes = (
+{
+closed = 1;
+nodes = (
+(338,179,l),
+(338,366,l),
+(144,366,l),
+(144,179,l)
+);
+}
+);
+width = 482;
+}
+);
+metricLeft = "=periodcentered*2";
+metricRight = "=|";
+unicode = 8226;
+}

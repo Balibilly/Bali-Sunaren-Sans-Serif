@@ -1,0 +1,26 @@
+{
+glyphname = "jaJera-bali.ccmp0";
+layers = (
+{
+layerId = m002;
+name = Regular;
+shapes = (
+{
+ref = "jaJera-bali";
+}
+);
+width = 1342;
+},
+{
+associatedMasterId = m002;
+layerId = m003;
+name = Bold;
+shapes = (
+{
+ref = "jaJera-bali";
+}
+);
+width = 1342;
+}
+);
+}

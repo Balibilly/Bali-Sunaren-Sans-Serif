@@ -1,0 +1,63 @@
+{
+glyphname = l;
+kernLeft = l;
+kernRight = l;
+layers = (
+{
+anchors = (
+{
+name = bottom;
+pos = (157,0);
+},
+{
+name = center;
+pos = (112,428);
+},
+{
+name = top;
+pos = (124,750);
+},
+{
+name = topright;
+pos = (220,750);
+}
+);
+background = {
+shapes = (
+{
+pos = (-288,0);
+ref = a;
+}
+);
+};
+layerId = m002;
+shapes = (
+{
+closed = 1;
+nodes = (
+(201,-10,o),
+(228,-5,o),
+(250,12,c),
+(237,-7,l),
+(211,75,l),
+(236,69,l),
+(221,63,o),
+(205,60,o),
+(192,60,cs),
+(170,60,o),
+(156,71,o),
+(156,107,cs),
+(156,750,l),
+(71,750,l),
+(71,108,ls),
+(71,34,o),
+(108,-10,o),
+(176,-10,cs)
+);
+}
+);
+width = 252;
+}
+);
+unicode = 108;
+}

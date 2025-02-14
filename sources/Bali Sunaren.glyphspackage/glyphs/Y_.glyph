@@ -1,0 +1,64 @@
+{
+glyphname = Y;
+kernLeft = Y;
+kernRight = Y;
+layers = (
+{
+anchors = (
+{
+name = bar_hor_dbl;
+pos = (334,256);
+},
+{
+name = bottom;
+pos = (294,0);
+},
+{
+name = top;
+pos = (294,700);
+},
+{
+name = topleft;
+pos = (29,700);
+}
+);
+background = {
+shapes = (
+{
+pos = (-11,0);
+ref = V;
+}
+);
+};
+layerId = m002;
+shapes = (
+{
+closed = 1;
+nodes = (
+(335,0,l),
+(335,346,l),
+(325,279,l),
+(578,700,l),
+(480,700,l),
+(318,417,ls),
+(300,386,o),
+(294,377,o),
+(290,347,c),
+(296,347,l),
+(293,376,o),
+(286,385,o),
+(267,418,cs),
+(108,700,l),
+(10,700,l),
+(261,275,l),
+(249,346,l),
+(249,0,l)
+);
+}
+);
+width = 588;
+}
+);
+metricRight = "=|";
+unicode = 89;
+}

@@ -1,0 +1,44 @@
+{
+export = 0;
+glyphname = _bar_hor_dbl_;
+layers = (
+{
+anchors = (
+{
+name = _bar_hor_dbl;
+pos = (305,355);
+}
+);
+background = {
+shapes = (
+{
+pos = (-30,0);
+ref = H;
+}
+);
+};
+layerId = m002;
+shapes = (
+{
+closed = 1;
+nodes = (
+(448,390,l),
+(448,460,l),
+(80,460,l),
+(80,390,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(448,250,l),
+(448,320,l),
+(80,320,l),
+(80,250,l)
+);
+}
+);
+width = 600;
+}
+);
+}

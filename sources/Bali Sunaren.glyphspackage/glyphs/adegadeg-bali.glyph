@@ -1,0 +1,27 @@
+{
+glyphname = "adegadeg-bali";
+layers = (
+{
+layerId = m002;
+name = Regular;
+shapes = (
+{
+ref = _gantungan_h_;
+}
+);
+width = 360;
+},
+{
+associatedMasterId = m002;
+layerId = m003;
+name = Bold;
+shapes = (
+{
+ref = _gantungan_h_;
+}
+);
+width = 360;
+}
+);
+unicode = 6980;
+}

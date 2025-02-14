@@ -1,0 +1,29 @@
+{
+glyphname = "dangSurang-bali";
+layers = (
+{
+layerId = m002;
+name = Regular;
+shapes = (
+{
+pos = (-30,-451);
+ref = "surang-bali";
+}
+);
+width = 480;
+},
+{
+associatedMasterId = m002;
+layerId = m003;
+name = Bold;
+shapes = (
+{
+pos = (740,-451);
+ref = "surang-bali";
+}
+);
+width = 600;
+}
+);
+unicode = 7013;
+}

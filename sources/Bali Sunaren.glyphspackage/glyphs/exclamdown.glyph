@@ -1,0 +1,33 @@
+{
+glyphname = exclamdown;
+kernLeft = colon;
+kernRight = colon;
+layers = (
+{
+layerId = m002;
+shapes = (
+{
+closed = 1;
+nodes = (
+(206,-155,l),
+(186,390,l),
+(118,390,l),
+(98,-155,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(201,454,l),
+(201,545,l),
+(103,545,l),
+(103,454,l)
+);
+}
+);
+width = 304;
+}
+);
+metricRight = "=|";
+unicode = 161;
+}

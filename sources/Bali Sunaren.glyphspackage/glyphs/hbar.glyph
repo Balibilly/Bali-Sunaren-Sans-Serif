@@ -1,0 +1,24 @@
+{
+glyphname = hbar;
+kernLeft = h;
+kernRight = n;
+layers = (
+{
+layerId = m002;
+shapes = (
+{
+alignment = -1;
+pos = (17,0);
+ref = h;
+},
+{
+pos = (7,0);
+ref = _h_strokeshortcomb;
+}
+);
+width = 615;
+}
+);
+metricRight = n;
+unicode = 295;
+}

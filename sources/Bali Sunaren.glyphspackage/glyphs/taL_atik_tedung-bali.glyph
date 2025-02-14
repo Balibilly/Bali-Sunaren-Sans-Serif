@@ -1,0 +1,29 @@
+{
+glyphname = "taLatik_tedung-bali";
+layers = (
+{
+anchors = (
+{
+name = bottom;
+pos = (1048,0);
+},
+{
+name = top;
+pos = (681,650);
+}
+);
+layerId = m002;
+shapes = (
+{
+ref = "taLatik-bali";
+},
+{
+pos = (1128,0);
+ref = "tedung-bali";
+}
+);
+width = 1675;
+}
+);
+metricRight = "tedung-bali";
+}

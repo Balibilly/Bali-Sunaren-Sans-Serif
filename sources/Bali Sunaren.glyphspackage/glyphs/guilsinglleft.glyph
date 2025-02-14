@@ -1,0 +1,41 @@
+{
+glyphname = guilsinglleft;
+kernLeft = guillemetleft;
+kernRight = guillemetleft;
+layers = (
+{
+anchors = (
+{
+name = _guilsinglleft;
+pos = (71,0);
+},
+{
+name = guilsinglleft;
+pos = (257,0);
+}
+);
+layerId = m002;
+shapes = (
+{
+closed = 1;
+nodes = (
+(127,302,l),
+(131,271,l),
+(407,535,l),
+(412,522,l),
+(274,522,l),
+(306,532,l),
+(39,273,l),
+(38,289,l),
+(302,28,l),
+(280,38,l),
+(415,38,l),
+(406,26,l)
+);
+}
+);
+width = 399;
+}
+);
+unicode = 8249;
+}

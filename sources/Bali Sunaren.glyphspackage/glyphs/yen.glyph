@@ -1,0 +1,21 @@
+{
+glyphname = yen;
+kernLeft = Y;
+kernRight = Y;
+layers = (
+{
+layerId = m002;
+shapes = (
+{
+ref = Y;
+},
+{
+pos = (29,-99);
+ref = _bar_hor_dbl_;
+}
+);
+width = 588;
+}
+);
+unicode = 165;
+}

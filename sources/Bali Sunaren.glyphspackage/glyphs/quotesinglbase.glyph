@@ -1,0 +1,30 @@
+{
+glyphname = quotesinglbase;
+kernLeft = period;
+kernRight = period;
+layers = (
+{
+anchors = (
+{
+name = _quotesinglbase;
+pos = (212,91);
+},
+{
+name = quotesinglbase;
+pos = (370,91);
+}
+);
+layerId = m002;
+shapes = (
+{
+alignment = 1;
+ref = comma;
+}
+);
+width = 242;
+}
+);
+metricLeft = period;
+metricRight = period;
+unicode = 8218;
+}

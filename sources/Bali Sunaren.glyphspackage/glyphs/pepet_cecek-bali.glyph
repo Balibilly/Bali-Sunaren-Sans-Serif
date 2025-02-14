@@ -1,0 +1,48 @@
+{
+glyphname = "pepet_cecek-bali";
+layers = (
+{
+anchors = (
+{
+name = _top;
+pos = (539,630);
+}
+);
+layerId = m002;
+name = Regular;
+shapes = (
+{
+ref = _pepet_bawak;
+},
+{
+alignment = -1;
+pos = (634,15);
+ref = "cecek-bali";
+}
+);
+width = 727;
+},
+{
+anchors = (
+{
+name = _top;
+pos = (371,630);
+}
+);
+associatedMasterId = m002;
+layerId = m003;
+name = Bold;
+shapes = (
+{
+ref = _pepet_bawak;
+},
+{
+pos = (504,15);
+ref = "cecek-bali";
+}
+);
+width = 727;
+}
+);
+metricLeft = "pepet-bali";
+}

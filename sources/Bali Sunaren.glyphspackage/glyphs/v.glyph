@@ -1,0 +1,52 @@
+{
+glyphname = v;
+kernLeft = v;
+kernRight = v;
+layers = (
+{
+anchors = (
+{
+name = ytail;
+pos = (265,0);
+}
+);
+background = {
+shapes = (
+{
+pos = (-21,0);
+ref = V;
+},
+{
+pos = (-32,0);
+ref = o;
+}
+);
+};
+layerId = m002;
+shapes = (
+{
+closed = 1;
+nodes = (
+(317,0,l),
+(508,545,l),
+(416,545,l),
+(276,112,ls),
+(266,82,o),
+(264,72,o),
+(260,42,c),
+(266,42,l),
+(263,71,o),
+(261,80,o),
+(251,112,cs),
+(111,545,l),
+(17,545,l),
+(208,0,l)
+);
+}
+);
+width = 525;
+}
+);
+metricRight = "=|";
+unicode = 118;
+}

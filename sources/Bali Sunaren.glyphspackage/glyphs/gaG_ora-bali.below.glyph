@@ -1,0 +1,54 @@
+{
+glyphname = "gaGora-bali.below";
+layers = (
+{
+anchors = (
+{
+name = _bottom;
+pos = (-110,0);
+},
+{
+name = bottom;
+pos = (-92,-679);
+},
+{
+name = top;
+pos = (-467,650);
+}
+);
+layerId = m002;
+name = Regular;
+shapes = (
+{
+alignment = -1;
+pos = (-1349,-679);
+ref = "gaGora-bali";
+}
+);
+width = 0;
+},
+{
+anchors = (
+{
+name = _bottom;
+pos = (1239,0);
+},
+{
+name = bottom;
+pos = (1239,-679);
+}
+);
+associatedMasterId = m002;
+layerId = m003;
+name = Bold;
+shapes = (
+{
+alignment = -1;
+pos = (0,-679);
+ref = "gaGora-bali";
+}
+);
+width = 1279;
+}
+);
+}

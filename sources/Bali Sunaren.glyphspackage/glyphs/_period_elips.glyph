@@ -1,0 +1,29 @@
+{
+export = 0;
+glyphname = _period_elips;
+kernLeft = period;
+kernRight = period;
+layers = (
+{
+anchors = (
+{
+name = _elips;
+pos = (52,91);
+},
+{
+name = elips;
+pos = (239,91);
+}
+);
+layerId = m002;
+shapes = (
+{
+alignment = 1;
+ref = period;
+}
+);
+width = 242;
+}
+);
+metricRight = "=|";
+}

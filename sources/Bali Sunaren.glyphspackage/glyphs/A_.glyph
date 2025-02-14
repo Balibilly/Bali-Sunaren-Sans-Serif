@@ -1,0 +1,127 @@
+{
+glyphname = A;
+kernLeft = A;
+kernRight = A;
+layers = (
+{
+anchors = (
+{
+name = bottom;
+pos = (304,0);
+},
+{
+name = ogonek;
+pos = (594,0);
+},
+{
+name = top;
+pos = (304,700);
+}
+);
+background = {
+shapes = (
+{
+angle = 180;
+pos = (610,700);
+ref = V;
+}
+);
+};
+layerId = m002;
+shapes = (
+{
+closed = 1;
+nodes = (
+(106,0,l),
+(169,205,l),
+(179,245,l),
+(282,584,ls),
+(292,616,o),
+(297,634,o),
+(301,661,c),
+(296,661,l),
+(298,633,o),
+(303,616,o),
+(314,584,cs),
+(425,245,l),
+(434,205,l),
+(502,0,l),
+(594,0,l),
+(356,700,l),
+(242,700,l),
+(14,0,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(462,187,l),
+(443,262,l),
+(168,262,l),
+(148,187,l)
+);
+}
+);
+width = 608;
+},
+{
+anchors = (
+{
+name = bottom;
+pos = (302,0);
+},
+{
+name = ogonek;
+pos = (592,0);
+},
+{
+name = top;
+pos = (302,700);
+}
+);
+associatedMasterId = m002;
+background = {
+shapes = (
+{
+angle = 180;
+pos = (608,700);
+ref = V;
+}
+);
+};
+layerId = "1CD7B8E7-ECC3-4728-B226-075A53A68CFA";
+name = "4 Jul 23 05.40";
+shapes = (
+{
+closed = 1;
+nodes = (
+(104,0,l),
+(167,205,l),
+(177,245,l),
+(309,675,l),
+(283,675,l),
+(423,245,l),
+(432,205,l),
+(500,0,l),
+(592,0,l),
+(354,700,l),
+(241,700,l),
+(12,0,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(460,187,l),
+(441,262,l),
+(166,262,l),
+(146,187,l)
+);
+}
+);
+width = 604;
+}
+);
+metricRight = "=|";
+unicode = 65;
+}

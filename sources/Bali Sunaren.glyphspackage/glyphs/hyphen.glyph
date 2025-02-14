@@ -1,0 +1,24 @@
+{
+glyphname = hyphen;
+kernLeft = periodcentered;
+kernRight = periodcentered;
+layers = (
+{
+layerId = m002;
+shapes = (
+{
+closed = 1;
+nodes = (
+(287,236,l),
+(287,319,l),
+(67,319,l),
+(67,236,l)
+);
+}
+);
+width = 354;
+}
+);
+metricRight = "=|";
+unicode = 45;
+}

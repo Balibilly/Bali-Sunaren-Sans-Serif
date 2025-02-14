@@ -1,0 +1,24 @@
+{
+glyphname = colon;
+kernLeft = colon;
+kernRight = colon;
+layers = (
+{
+layerId = m002;
+shapes = (
+{
+alignment = 1;
+ref = period;
+},
+{
+alignment = 1;
+pos = (0,400);
+ref = period;
+}
+);
+width = 242;
+}
+);
+metricRight = "=|";
+unicode = 58;
+}

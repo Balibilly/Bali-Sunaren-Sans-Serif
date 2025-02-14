@@ -1,0 +1,58 @@
+{
+glyphname = "raRepa-bali";
+layers = (
+{
+anchors = (
+{
+name = bottom;
+pos = (831,0);
+},
+{
+name = top;
+pos = (414,650);
+}
+);
+layerId = m002;
+name = Regular;
+shapes = (
+{
+ref = "pa-bali";
+},
+{
+alignment = -1;
+pos = (210,-38);
+ref = _repa_;
+}
+);
+width = 911;
+},
+{
+anchors = (
+{
+name = bottom;
+pos = (842,0);
+},
+{
+name = top;
+pos = (414,650);
+}
+);
+associatedMasterId = m002;
+layerId = m003;
+name = Bold;
+shapes = (
+{
+ref = "pa-bali";
+},
+{
+pos = (210,0);
+ref = _repa_;
+}
+);
+width = 911;
+}
+);
+metricLeft = "pa-bali";
+metricRight = "pa-bali";
+unicode = 6923;
+}

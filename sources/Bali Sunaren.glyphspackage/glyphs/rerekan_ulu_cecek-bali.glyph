@@ -1,0 +1,50 @@
+{
+glyphname = "rerekan_ulu_cecek-bali";
+layers = (
+{
+anchors = (
+{
+name = _top;
+pos = (740,630);
+}
+);
+layerId = m002;
+name = Regular;
+shapes = (
+{
+alignment = 1;
+ref = "rerekan-bali";
+},
+{
+alignment = -1;
+pos = (481,0);
+ref = "ulu_cecek-bali";
+}
+);
+width = 578;
+},
+{
+anchors = (
+{
+name = _top;
+pos = (284,630);
+}
+);
+associatedMasterId = m002;
+layerId = m003;
+name = Bold;
+shapes = (
+{
+alignment = -1;
+ref = "rerekan-bali";
+},
+{
+alignment = -1;
+pos = (497,0);
+ref = "ulu-bali";
+}
+);
+width = 578;
+}
+);
+}

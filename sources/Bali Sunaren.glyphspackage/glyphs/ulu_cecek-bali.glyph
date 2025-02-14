@@ -1,0 +1,56 @@
+{
+glyphname = "ulu_cecek-bali";
+layers = (
+{
+anchors = (
+{
+name = _top;
+pos = (471,630);
+},
+{
+name = top;
+pos = (808,630);
+}
+);
+layerId = m002;
+name = Regular;
+shapes = (
+{
+alignment = 1;
+ref = "ulu-bali";
+},
+{
+pos = (476,0);
+ref = _Cecek_komponen;
+}
+);
+width = 574;
+},
+{
+anchors = (
+{
+name = _top;
+pos = (326,630);
+},
+{
+name = top;
+pos = (808,630);
+}
+);
+associatedMasterId = m002;
+layerId = m003;
+name = Bold;
+shapes = (
+{
+alignment = 1;
+ref = "ulu-bali";
+},
+{
+pos = (476,0);
+ref = _Cecek_komponen;
+}
+);
+width = 574;
+}
+);
+}

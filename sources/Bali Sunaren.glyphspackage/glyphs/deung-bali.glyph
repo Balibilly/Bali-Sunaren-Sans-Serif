@@ -1,0 +1,29 @@
+{
+glyphname = "deung-bali";
+layers = (
+{
+layerId = m002;
+name = Regular;
+shapes = (
+{
+pos = (312,535);
+ref = "sukuIlut-bali";
+}
+);
+width = 330;
+},
+{
+associatedMasterId = m002;
+layerId = m003;
+name = Bold;
+shapes = (
+{
+pos = (376,535);
+ref = "sukuIlut-bali";
+}
+);
+width = 600;
+}
+);
+unicode = 7016;
+}

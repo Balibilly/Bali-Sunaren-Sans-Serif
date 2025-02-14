@@ -1,0 +1,59 @@
+{
+glyphname = "kaMahaprana-bali.below";
+layers = (
+{
+anchors = (
+{
+name = _bottom;
+pos = (-92,0);
+},
+{
+name = bottom;
+pos = (-92,-679);
+},
+{
+name = top;
+pos = (-467,650);
+}
+);
+layerId = m002;
+name = Regular;
+shapes = (
+{
+alignment = 1;
+ref = "ka-bali.below";
+},
+{
+pos = (-889,-628);
+ref = _kaMahaprana;
+}
+);
+width = 0;
+},
+{
+anchors = (
+{
+name = _bottom;
+pos = (877,0);
+},
+{
+name = bottom;
+pos = (877,-679);
+}
+);
+associatedMasterId = m002;
+layerId = m003;
+name = Bold;
+shapes = (
+{
+ref = "ka-bali.below";
+},
+{
+pos = (-889,-628);
+ref = _kaMahaprana;
+}
+);
+width = 927;
+}
+);
+}

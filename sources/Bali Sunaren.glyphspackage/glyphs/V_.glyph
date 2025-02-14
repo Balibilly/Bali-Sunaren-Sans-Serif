@@ -1,0 +1,114 @@
+{
+glyphname = V;
+kernLeft = V;
+kernRight = V;
+layers = (
+{
+background = {
+shapes = (
+{
+pos = (-90,0);
+ref = O;
+},
+{
+pos = (-38,0);
+ref = H;
+}
+);
+};
+layerId = m002;
+shapes = (
+{
+closed = 1;
+nodes = (
+(355,0,l),
+(579,700,l),
+(484,700,l),
+(312,122,ls),
+(308,108,o),
+(300,82,o),
+(296,52,c),
+(301,52,l),
+(298,81,o),
+(293,99,o),
+(286,122,cs),
+(111,700,l),
+(17,700,l),
+(241,0,l)
+);
+}
+);
+width = 596;
+},
+{
+associatedMasterId = m002;
+background = {
+shapes = (
+{
+pos = (-73,0);
+ref = O;
+}
+);
+};
+layerId = "371CB019-1D8D-45E6-B957-7DB7C732E968";
+name = "18 Apr 23 15.57";
+shapes = (
+{
+closed = 1;
+nodes = (
+(360,0,l),
+(603,700,l),
+(508,700,l),
+(341,202,ls),
+(323,147,o),
+(315,112,o),
+(311,86,c),
+(304,86,l),
+(303,104,o),
+(294,148,o),
+(279,194,cs),
+(110,700,l),
+(14,700,l),
+(257,0,l)
+);
+}
+);
+width = 620;
+},
+{
+associatedMasterId = m002;
+background = {
+shapes = (
+{
+pos = (-92,0);
+ref = O;
+},
+{
+pos = (-40,0);
+ref = H;
+}
+);
+};
+layerId = "2E9B7FBA-F4B7-47B9-A1A3-401E0A445999";
+name = "1 Jul 23 09.02";
+shapes = (
+{
+closed = 1;
+nodes = (
+(353,0,l),
+(577,700,l),
+(482,700,l),
+(294,69,l),
+(300,69,l),
+(109,700,l),
+(15,700,l),
+(239,0,l)
+);
+}
+);
+width = 592;
+}
+);
+metricRight = "=|";
+unicode = 86;
+}

@@ -1,0 +1,23 @@
+{
+export = 0;
+glyphname = _suwet;
+layers = (
+{
+anchors = (
+{
+name = _bottom;
+pos = (836,0);
+}
+);
+layerId = m002;
+shapes = (
+{
+alignment = -1;
+pos = (-245,0);
+ref = _cecek_bangkiang;
+}
+);
+width = 875;
+}
+);
+}

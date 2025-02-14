@@ -1,0 +1,40 @@
+{
+glyphname = equal;
+layers = (
+{
+background = {
+shapes = (
+{
+pos = (-45,0);
+ref = plus;
+}
+);
+};
+layerId = m002;
+shapes = (
+{
+closed = 1;
+nodes = (
+(534,402,l),
+(534,467,l),
+(75,467,l),
+(75,402,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(534,232,l),
+(534,297,l),
+(75,297,l),
+(75,232,l)
+);
+}
+);
+width = 609;
+}
+);
+metricLeft = minus;
+metricRight = minus;
+unicode = 61;
+}

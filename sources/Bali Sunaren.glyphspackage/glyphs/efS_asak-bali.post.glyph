@@ -1,0 +1,59 @@
+{
+category = Letter;
+glyphname = "efSasak-bali.post";
+layers = (
+{
+anchors = (
+{
+name = bottom;
+pos = (563,0);
+},
+{
+name = top;
+pos = (134,650);
+}
+);
+layerId = m002;
+name = Regular;
+shapes = (
+{
+ref = "pa-bali.post";
+},
+{
+alignment = -1;
+pos = (-182,0);
+ref = _suwet_ta;
+}
+);
+width = 643;
+},
+{
+anchors = (
+{
+name = bottom;
+pos = (563,0);
+},
+{
+name = top;
+pos = (134,650);
+}
+);
+associatedMasterId = m002;
+layerId = m003;
+name = Bold;
+shapes = (
+{
+ref = "pa-bali.post";
+},
+{
+alignment = -1;
+pos = (-182,0);
+ref = _suwet_ta;
+}
+);
+width = 623;
+}
+);
+metricLeft = "pa-bali.post";
+metricRight = "ha-bali";
+}

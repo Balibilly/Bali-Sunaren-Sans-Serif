@@ -1,0 +1,24 @@
+{
+glyphname = Oslash;
+kernLeft = O;
+kernRight = O;
+layers = (
+{
+layerId = m002;
+shapes = (
+{
+alignment = -1;
+pos = (4,0);
+ref = O;
+},
+{
+pos = (9,0);
+ref = _O_slashlongcomb;
+}
+);
+width = 770;
+}
+);
+metricRight = "=|";
+unicode = 216;
+}

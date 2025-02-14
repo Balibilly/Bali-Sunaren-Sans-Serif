@@ -1,0 +1,41 @@
+{
+glyphname = "carikPareren-bali";
+layers = (
+{
+layerId = m002;
+name = Regular;
+shapes = (
+{
+alignment = -1;
+ref = "carikSiki-bali";
+},
+{
+alignment = -1;
+pos = (229,0);
+ref = "carikSiki-bali";
+}
+);
+width = 672;
+},
+{
+associatedMasterId = m002;
+layerId = m003;
+name = Bold;
+shapes = (
+{
+alignment = -1;
+ref = "carikSiki-bali";
+},
+{
+alignment = -1;
+pos = (217,0);
+ref = "carikSiki-bali";
+}
+);
+width = 560;
+}
+);
+metricLeft = "carikSiki-bali";
+metricRight = "carikSiki-bali";
+unicode = 7007;
+}

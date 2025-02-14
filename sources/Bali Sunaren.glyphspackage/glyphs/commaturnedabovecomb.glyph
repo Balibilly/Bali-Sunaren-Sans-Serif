@@ -1,0 +1,35 @@
+{
+glyphname = commaturnedabovecomb;
+layers = (
+{
+anchors = (
+{
+name = _top;
+pos = (134,520);
+},
+{
+name = top;
+pos = (134,780);
+}
+);
+layerId = m002;
+shapes = (
+{
+closed = 1;
+nodes = (
+(159,636,l),
+(193,817,l),
+(215,774,l),
+(79,774,l),
+(135,811,l),
+(85,636,l)
+);
+}
+);
+width = 270;
+}
+);
+metricLeft = dotaccentcomb;
+metricRight = "=|";
+unicode = 786;
+}

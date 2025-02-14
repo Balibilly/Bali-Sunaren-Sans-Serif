@@ -1,0 +1,57 @@
+{
+glyphname = "saSapa-bali";
+layers = (
+{
+anchors = (
+{
+name = bottom;
+pos = (831,0);
+},
+{
+name = top;
+pos = (433,650);
+}
+);
+layerId = m002;
+name = Regular;
+shapes = (
+{
+ref = "pa-bali";
+},
+{
+pos = (-5,0);
+ref = _suwet;
+}
+);
+width = 911;
+},
+{
+anchors = (
+{
+name = bottom;
+pos = (842,0);
+},
+{
+name = top;
+pos = (414,650);
+}
+);
+associatedMasterId = m002;
+layerId = m003;
+name = Bold;
+shapes = (
+{
+ref = "pa-bali";
+},
+{
+pos = (-5,0);
+ref = _suwet;
+}
+);
+width = 911;
+}
+);
+metricLeft = "pa-bali";
+metricRight = "pa-bali";
+unicode = 6961;
+}

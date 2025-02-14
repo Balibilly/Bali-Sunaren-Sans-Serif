@@ -1,0 +1,34 @@
+{
+export = 0;
+glyphname = _bar_ver_;
+layers = (
+{
+anchors = (
+{
+name = _bar_ver;
+pos = (295,359);
+}
+);
+background = {
+shapes = (
+{
+ref = B;
+}
+);
+};
+layerId = m002;
+shapes = (
+{
+closed = 1;
+nodes = (
+(327,-90,l),
+(327,790,l),
+(263,790,l),
+(263,-90,l)
+);
+}
+);
+width = 600;
+}
+);
+}

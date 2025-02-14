@@ -1,0 +1,44 @@
+{
+glyphname = "leftHandClosedPluk-bali";
+layers = (
+{
+layerId = m002;
+name = Regular;
+shapes = (
+{
+alignment = 1;
+ref = "leftHandOpenPung-bali";
+},
+{
+alignment = -1;
+pos = (98,0);
+ref = _segtitga_bali;
+}
+);
+width = 567;
+},
+{
+associatedMasterId = m002;
+layerId = m003;
+name = Bold;
+shapes = (
+{
+ref = "leftHandOpenPung-bali";
+},
+{
+closed = 1;
+nodes = (
+(359,257,l),
+(63,590,l),
+(30,556,l),
+(332,231,l)
+);
+}
+);
+width = 527;
+}
+);
+metricLeft = "leftHandOpenPung-bali";
+metricRight = "leftHandOpenPung-bali";
+unicode = 7035;
+}

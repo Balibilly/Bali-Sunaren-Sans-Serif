@@ -1,0 +1,50 @@
+{
+glyphname = "ba-bali.below_ya-bali.post2";
+layers = (
+{
+anchors = (
+{
+name = top;
+pos = (-525,650);
+}
+);
+layerId = m002;
+name = Regular;
+shapes = (
+{
+alignment = -1;
+ref = "_ya-bali.post_komp_";
+},
+{
+alignment = -1;
+pos = (-1384,-679);
+ref = "ba-bali";
+}
+);
+width = 347;
+},
+{
+anchors = (
+{
+name = top;
+pos = (-525,650);
+}
+);
+associatedMasterId = m002;
+layerId = m003;
+name = Bold;
+shapes = (
+{
+ref = "ya-bali.post2";
+},
+{
+alignment = -1;
+pos = (-1372,-679);
+ref = "ba-bali";
+}
+);
+width = 327;
+}
+);
+metricRight = "ha-bali";
+}

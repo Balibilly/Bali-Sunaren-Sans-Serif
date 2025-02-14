@@ -1,0 +1,28 @@
+{
+glyphname = ellipsis;
+kernLeft = period;
+kernRight = period;
+layers = (
+{
+layerId = m002;
+shapes = (
+{
+alignment = -1;
+ref = _period_elips;
+},
+{
+pos = (187,0);
+ref = _period_elips;
+},
+{
+pos = (374,0);
+ref = _period_elips;
+}
+);
+width = 616;
+}
+);
+metricLeft = period;
+metricRight = period;
+unicode = 8230;
+}

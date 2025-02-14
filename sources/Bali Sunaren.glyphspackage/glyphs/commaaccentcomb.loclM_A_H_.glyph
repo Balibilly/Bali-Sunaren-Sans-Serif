@@ -1,0 +1,25 @@
+{
+glyphname = commaaccentcomb.loclMAH;
+layers = (
+{
+anchors = (
+{
+name = _bottom;
+pos = (140,0);
+},
+{
+name = bottom;
+pos = (81,-158);
+}
+);
+layerId = m002;
+shapes = (
+{
+alignment = 1;
+ref = commaaccentcomb;
+}
+);
+width = 235;
+}
+);
+}

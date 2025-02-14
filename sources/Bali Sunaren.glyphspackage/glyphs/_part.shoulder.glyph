@@ -1,0 +1,202 @@
+{
+export = 0;
+glyphname = _part.shoulder;
+layers = (
+{
+anchors = (
+{
+name = _connect;
+pos = (129,0);
+},
+{
+name = connect;
+pos = (480,0);
+}
+);
+background = {
+shapes = (
+{
+closed = 1;
+nodes = (
+(480,0,l),
+(480,345,ls),
+(480,469,o),
+(417,555,o),
+(300,555,cs),
+(218,555,o),
+(164,513,o),
+(132,468,c),
+(118,468,l),
+(121,339,l),
+(129,339,l),
+(139,404,o),
+(187,479,o),
+(279,479,cs),
+(350,479,o),
+(394,435,o),
+(394,335,cs),
+(394,0,l)
+);
+}
+);
+};
+guides = (
+{
+pos = (132,468);
+},
+{
+pos = (302,555);
+}
+);
+layerId = m002;
+partSelection = {
+crotchDepth = 2;
+shoulderWidth = 2;
+};
+shapes = (
+{
+closed = 1;
+nodes = (
+(480,0,l),
+(480,345,ls),
+(480,469,o),
+(417,555,o),
+(300,555,cs),
+(218,555,o),
+(164,513,o),
+(132,468,c),
+(118,468,l),
+(121,339,l),
+(129,339,l),
+(139,404,o),
+(187,479,o),
+(279,479,cs),
+(350,479,o),
+(394,435,o),
+(394,335,cs),
+(394,0,l)
+);
+}
+);
+width = 525;
+},
+{
+anchors = (
+{
+name = _connect;
+pos = (129,0);
+},
+{
+name = connect;
+pos = (470,0);
+}
+);
+associatedMasterId = m002;
+background = {
+shapes = (
+{
+pos = (1,0);
+ref = a;
+}
+);
+};
+layerId = "97AE1484-A70E-4124-9C99-6A1EA2A122C9";
+name = NarrowShoulder;
+partSelection = {
+crotchDepth = 2;
+shoulderWidth = 1;
+};
+shapes = (
+{
+closed = 1;
+nodes = (
+(470,0,l),
+(470,338,ls),
+(470,477,o),
+(401,555,o),
+(279,555,cs),
+(225,555,o),
+(170,525,o),
+(132,469,c),
+(121,469,l),
+(121,366,l),
+(129,366,l),
+(135,425,o),
+(193,485,o),
+(257,485,cs),
+(350,485,o),
+(394,439,o),
+(394,341,cs),
+(394,0,l)
+);
+}
+);
+width = 525;
+},
+{
+anchors = (
+{
+name = _connect;
+pos = (129,0);
+},
+{
+name = connect;
+pos = (470,0);
+}
+);
+associatedMasterId = m002;
+background = {
+shapes = (
+{
+pos = (1,0);
+ref = a;
+}
+);
+};
+layerId = "CFEC0ED5-4DB4-4CB3-A715-680611C12DC8";
+name = LowCrotch;
+partSelection = {
+crotchDepth = 1;
+shoulderWidth = 2;
+};
+shapes = (
+{
+closed = 1;
+nodes = (
+(470,0,l),
+(470,338,ls),
+(470,477,o),
+(401,555,o),
+(296,555,cs),
+(212,555,o),
+(151,517,o),
+(116,442,c),
+(106,442,l),
+(121,321,l),
+(129,321,l),
+(135,416,o),
+(197,485,o),
+(276,485,cs),
+(350,485,o),
+(394,439,o),
+(394,341,cs),
+(394,0,l)
+);
+}
+);
+width = 525;
+}
+);
+partsSettings = (
+{
+bottomValue = -100;
+name = crotchDepth;
+topValue = 0;
+},
+{
+bottomValue = 0;
+name = shoulderWidth;
+topValue = 100;
+}
+);
+}

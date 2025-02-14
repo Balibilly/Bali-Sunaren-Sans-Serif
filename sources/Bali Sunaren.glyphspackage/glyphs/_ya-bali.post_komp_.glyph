@@ -1,0 +1,111 @@
+{
+export = 0;
+glyphname = "_ya-bali.post_komp_";
+layers = (
+{
+anchors = (
+{
+name = _bottom;
+pos = (-38,-679);
+},
+{
+name = bottom;
+pos = (267,-759);
+},
+{
+name = top;
+pos = (-311,630);
+}
+);
+layerId = m002;
+name = Regular;
+shapes = (
+{
+alignment = -1;
+pos = (-877,0);
+ref = _ha_geluungan_ha;
+},
+{
+alignment = -1;
+pos = (10,0);
+ref = _ya_bali_post2_awak;
+},
+{
+ref = _nania_panjang;
+}
+);
+width = 347;
+},
+{
+anchors = (
+{
+name = _bottom;
+pos = (-38,-679);
+},
+{
+name = bottom;
+pos = (267,-759);
+},
+{
+name = top;
+pos = (-311,630);
+}
+);
+associatedMasterId = m002;
+layerId = m003;
+name = Bold;
+shapes = (
+{
+alignment = -1;
+pos = (-877,0);
+ref = _ha_geluungan_ha;
+},
+{
+alignment = -1;
+pos = (10,0);
+ref = _ya_bali_post2_awak;
+},
+{
+ref = _nania_panjang;
+}
+);
+width = 327;
+},
+{
+anchors = (
+{
+name = _bottom;
+pos = (-38,-679);
+},
+{
+name = bottom;
+pos = (267,-759);
+},
+{
+name = top;
+pos = (-311,630);
+}
+);
+associatedMasterId = m002;
+layerId = "BE46D94A-4EF2-4E8F-9501-517D4B0D9745";
+name = "16 Aug 23 15.32";
+shapes = (
+{
+alignment = -1;
+pos = (-877,0);
+ref = _ha_geluungan_ha;
+},
+{
+alignment = -1;
+pos = (10,0);
+ref = _ya_bali_post2_awak;
+},
+{
+ref = _nania_panjang;
+}
+);
+width = 347;
+}
+);
+metricRight = "ha-bali";
+}

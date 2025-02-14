@@ -1,0 +1,57 @@
+{
+glyphname = "tzirSasak-bali";
+layers = (
+{
+anchors = (
+{
+name = bottom;
+pos = (1146,0);
+},
+{
+name = top;
+pos = (593,650);
+}
+);
+layerId = m002;
+name = Regular;
+shapes = (
+{
+ref = "ta-bali";
+},
+{
+pos = (8,0);
+ref = _suwet_ta;
+}
+);
+width = 1226;
+},
+{
+anchors = (
+{
+name = bottom;
+pos = (1157,0);
+},
+{
+name = top;
+pos = (414,650);
+}
+);
+associatedMasterId = m002;
+layerId = m003;
+name = Bold;
+shapes = (
+{
+ref = "ta-bali";
+},
+{
+pos = (8,0);
+ref = _suwet_ta;
+}
+);
+width = 1226;
+}
+);
+metricLeft = "ta-bali";
+metricRight = "ta-bali";
+unicode = 6983;
+}

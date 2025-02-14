@@ -1,0 +1,16 @@
+{
+glyphname = tilde;
+layers = (
+{
+layerId = m002;
+shapes = (
+{
+alignment = 1;
+ref = tildecomb;
+}
+);
+width = 392;
+}
+);
+unicode = 732;
+}

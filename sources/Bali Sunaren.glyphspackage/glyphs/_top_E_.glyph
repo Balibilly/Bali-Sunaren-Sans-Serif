@@ -1,0 +1,27 @@
+{
+export = 0;
+glyphname = _top_E;
+layers = (
+{
+anchors = (
+{
+name = _top;
+pos = (143,630);
+}
+);
+layerId = m002;
+shapes = (
+{
+closed = 1;
+nodes = (
+(491,622,l),
+(491,700,l),
+(143,700,l),
+(143,622,l)
+);
+}
+);
+width = 600;
+}
+);
+}

@@ -1,0 +1,42 @@
+{
+glyphname = "laLengaTedungMark-bali";
+layers = (
+{
+anchors = (
+{
+name = _bottom;
+pos = (730,0);
+},
+{
+name = _top;
+pos = (371,630);
+},
+{
+name = bottom;
+pos = (730,-679);
+}
+);
+layerId = m002;
+name = Regular;
+shapes = (
+{
+pos = (858,0);
+ref = "laLengaMark-bali";
+},
+{
+pos = (823,0);
+ref = "tedung-bali";
+}
+);
+width = 1370;
+},
+{
+associatedMasterId = m002;
+layerId = m003;
+name = Bold;
+width = 2034;
+}
+);
+metricRight = "tedung-bali";
+unicode = 6973;
+}

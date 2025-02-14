@@ -1,0 +1,51 @@
+{
+glyphname = "sa-bali.post";
+layers = (
+{
+anchors = (
+{
+name = bottom;
+pos = (563,0);
+},
+{
+name = top;
+pos = (134,650);
+}
+);
+layerId = m002;
+name = Regular;
+shapes = (
+{
+ref = "pa-bali.post";
+}
+);
+width = 643;
+},
+{
+anchors = (
+{
+name = bottom;
+pos = (563,0);
+},
+{
+name = top;
+pos = (134,650);
+}
+);
+associatedMasterId = m002;
+layerId = m003;
+name = Bold;
+shapes = (
+{
+pos = (-403,0);
+ref = "suku-bali";
+},
+{
+ref = "pa-bali.post";
+}
+);
+width = 623;
+}
+);
+metricRight = "ha-bali";
+}

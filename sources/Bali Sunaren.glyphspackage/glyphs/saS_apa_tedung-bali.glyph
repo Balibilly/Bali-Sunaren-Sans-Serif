@@ -1,0 +1,29 @@
+{
+glyphname = "saSapa_tedung-bali";
+layers = (
+{
+anchors = (
+{
+name = bottom;
+pos = (831,0);
+},
+{
+name = top;
+pos = (516,650);
+}
+);
+layerId = m002;
+shapes = (
+{
+ref = "pa_tedung-bali";
+},
+{
+pos = (-5,0);
+ref = _suwet;
+}
+);
+width = 1129;
+}
+);
+metricRight = "tedung-bali";
+}

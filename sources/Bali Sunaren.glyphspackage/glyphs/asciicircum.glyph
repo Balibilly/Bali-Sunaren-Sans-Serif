@@ -1,0 +1,29 @@
+{
+glyphname = asciicircum;
+kernLeft = asterisk;
+kernRight = asterisk;
+layers = (
+{
+layerId = m002;
+shapes = (
+{
+closed = 1;
+nodes = (
+(105,487,l),
+(197,682,l),
+(185,682,l),
+(260,487,l),
+(315,487,l),
+(209,750,l),
+(174,750,l),
+(49,487,l)
+);
+}
+);
+width = 364;
+}
+);
+metricLeft = asterisk;
+metricRight = "=|";
+unicode = 94;
+}

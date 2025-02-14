@@ -1,0 +1,55 @@
+{
+glyphname = "ikara-bali";
+layers = (
+{
+anchors = (
+{
+name = bottom;
+pos = (1061,0);
+},
+{
+name = top;
+pos = (662,650);
+}
+);
+layerId = m002;
+name = Regular;
+shapes = (
+{
+ref = "nga-bali";
+},
+{
+pos = (440,0);
+ref = _repa_;
+}
+);
+width = 1141;
+},
+{
+anchors = (
+{
+name = bottom;
+pos = (1049,0);
+},
+{
+name = top;
+pos = (662,650);
+}
+);
+associatedMasterId = m002;
+layerId = m003;
+name = Bold;
+shapes = (
+{
+ref = "nga-bali";
+},
+{
+pos = (440,0);
+ref = _repa_;
+}
+);
+width = 1141;
+}
+);
+unicode = 6919;
+}

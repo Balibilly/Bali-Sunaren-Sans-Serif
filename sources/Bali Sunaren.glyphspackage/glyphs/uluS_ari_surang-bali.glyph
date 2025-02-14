@@ -1,0 +1,48 @@
+{
+glyphname = "uluSari_surang-bali";
+layers = (
+{
+anchors = (
+{
+name = _top;
+pos = (522,630);
+}
+);
+layerId = m002;
+name = Regular;
+shapes = (
+{
+alignment = 1;
+ref = "uluSari-bali";
+},
+{
+ref = _surang_bawak;
+}
+);
+width = 574;
+},
+{
+anchors = (
+{
+name = _top;
+pos = (325,630);
+}
+);
+associatedMasterId = m002;
+layerId = m003;
+name = Bold;
+shapes = (
+{
+alignment = 1;
+ref = "uluSari-bali";
+},
+{
+ref = _surang_bawak;
+}
+);
+width = 574;
+}
+);
+metricLeft = "ulu-bali";
+metricRight = "ulu-bali";
+}

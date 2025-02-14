@@ -1,0 +1,29 @@
+{
+glyphname = "taTawa_tedung-bali";
+layers = (
+{
+anchors = (
+{
+name = bottom;
+pos = (824,0);
+},
+{
+name = top;
+pos = (682,650);
+}
+);
+layerId = m002;
+shapes = (
+{
+ref = "wa_tedung-bali";
+},
+{
+pos = (-12,0);
+ref = _suwet;
+}
+);
+width = 1274;
+}
+);
+metricRight = "tedung-bali";
+}

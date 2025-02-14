@@ -1,0 +1,30 @@
+{
+glyphname = "windu-bali";
+layers = (
+{
+layerId = m002;
+name = Regular;
+shapes = (
+{
+ref = "zero-bali";
+}
+);
+width = 588;
+},
+{
+associatedMasterId = m002;
+layerId = m003;
+name = Bold;
+shapes = (
+{
+alignment = -1;
+pos = (61,258);
+ref = "zero-bali";
+scale = (0.7346,0.7346);
+}
+);
+width = 600;
+}
+);
+unicode = 7004;
+}

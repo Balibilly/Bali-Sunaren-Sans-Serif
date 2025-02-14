@@ -1,0 +1,29 @@
+{
+glyphname = "taMurdaMahaprana_tedung-bali";
+layers = (
+{
+anchors = (
+{
+name = bottom;
+pos = (1044,0);
+},
+{
+name = top;
+pos = (677,650);
+}
+);
+layerId = m002;
+shapes = (
+{
+ref = "taMurdaMahaprana-bali";
+},
+{
+pos = (1124,0);
+ref = "tedung-bali";
+}
+);
+width = 1671;
+}
+);
+metricRight = "tedung-bali";
+}
